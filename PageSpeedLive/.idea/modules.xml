@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PageSpeedLive.iml" filepath="$PROJECT_DIR$/.idea/PageSpeedLive.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/QRCode/.idea/QRCode.iml" filepath="$USER_HOME$/PycharmProjects/QRCode/.idea/QRCode.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/TimelineMatch/.idea/TimelineMatch.iml" filepath="$USER_HOME$/PycharmProjects/TimelineMatch/.idea/TimelineMatch.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/domain/.idea/domain.iml" filepath="$USER_HOME$/PycharmProjects/domain/.idea/domain.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/excelsheetmerge/.idea/excelsheetmerge.iml" filepath="$USER_HOME$/PycharmProjects/excelsheetmerge/.idea/excelsheetmerge.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/tataMotors/.idea/tataMotors.iml" filepath="$USER_HOME$/PycharmProjects/tataMotors/.idea/tataMotors.iml" />
+    </modules>
+  </component>
+</project>
